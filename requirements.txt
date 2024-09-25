@@ -2,3 +2,5 @@ transformers
 Pillow 
 opencv-python 
 torch
+gtts
+pygame
