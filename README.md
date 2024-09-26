@@ -32,6 +32,7 @@ Hardware: Raspberry Pi as the computing platform.
 
 1.Clone the repository
    git clone https://github.com/yourusername/smart-cap.git
+   
    cd smart-cap
 
 2.Install required dependencies
