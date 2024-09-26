@@ -1,5 +1,7 @@
 **Smart Cap Project**
-Overview
+
+**Overview**
+
 The Smart Cap is an innovative assistive technology designed to help visually impaired individuals navigate their surroundings by providing real-time descriptions of their environment. The project utilizes image processing and natural language processing techniques to capture images and narrate them aloud, enabling users to gain awareness of their surroundings.
 
 **Features**
